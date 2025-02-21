@@ -77,6 +77,14 @@ This is a open project
 - **Your Name** - [Raviteja](ravitejaseguri@gmail.com)
 - **Project Link:** [GitHub Repository](https://github.com/Raviteja5469/nexgen)
 
+## 🔮 Future Updates
+
+- ✅ Integration with payment gateways
+- 📱 Mobile app development
+- 📊 Advanced auction analytics
+- 📢 Social media sharing features
+- 👤 Enhanced user profiles
+
 
 
 
