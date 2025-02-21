@@ -85,6 +85,10 @@ This is a open project
 - 📢 Social media sharing features
 - 👤 Enhanced user profiles
 
+## ⚡ Performance
 
+- 🚀 Built with Vite for lightning-fast development and production builds
+- 📦 Optimized asset loading
+- 📱 Responsive design for all devices
 
 
