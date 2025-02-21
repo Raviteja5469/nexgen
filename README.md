@@ -72,5 +72,11 @@ This is a open project
 - **Vite.js Team** for the amazing build tool
 - **React.js Community**
 
+## 📞 Contact
+
+- **Your Name** - [Raviteja](ravitejaseguri@gmail.com)
+- **Project Link:** [GitHub Repository](https://github.com/Raviteja5469/nexgen)
+
+
 
 
