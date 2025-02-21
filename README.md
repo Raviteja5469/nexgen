@@ -1,4 +1,4 @@
-# 🚀 Auction websi
+# 🚀 Auction website
 
 A modern web application for online auctions, built with Vite and React.
 
